@@ -1,0 +1,12 @@
+.main-title-paragraph {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1rem;
+}
+.main-paragraph {
+    font-weight: bold;
+}
+
